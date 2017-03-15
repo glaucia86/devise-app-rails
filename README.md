@@ -8,6 +8,7 @@ Desenvolvimento de uma pequena app para fins de estudo da GEM: Devise da linguag
 * Rails 5;
 * Ruby ~ 2.2.6;
 * Bootstrap 3;
+* Devise (GEM) 4.2.1;
 * SQLite;
 
 
